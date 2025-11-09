@@ -1,0 +1,10 @@
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\release\deps\libthiserror-11b63d6435ceea94.rmeta: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\provide.rs
+
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\release\deps\libthiserror-11b63d6435ceea94.rlib: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\provide.rs
+
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\release\deps\thiserror-11b63d6435ceea94.d: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\provide.rs
+
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\provide.rs:

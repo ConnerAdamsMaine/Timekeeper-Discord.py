@@ -1,0 +1,12 @@
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\libserde-0f24d7360a3d54f0.rmeta: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Conner\ Adams\Desktop\Projects\404Development\ LLC\Timekeeper-Discord.py\Rust\target\debug\build\serde-ea2d6514dbc5197c\out/private.rs
+
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\serde-0f24d7360a3d54f0.d: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Conner\ Adams\Desktop\Projects\404Development\ LLC\Timekeeper-Discord.py\Rust\target\debug\build\serde-ea2d6514dbc5197c\out/private.rs
+
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Conner\ Adams\Desktop\Projects\404Development\ LLC\Timekeeper-Discord.py\Rust\target\debug\build\serde-ea2d6514dbc5197c\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Conner Adams\\Desktop\\Projects\\404Development LLC\\Timekeeper-Discord.py\\Rust\\target\\debug\\build\\serde-ea2d6514dbc5197c\\out

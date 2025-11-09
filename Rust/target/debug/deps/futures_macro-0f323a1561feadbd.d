@@ -1,0 +1,9 @@
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\futures_macro-0f323a1561feadbd.dll: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\futures_macro-0f323a1561feadbd.d: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs:

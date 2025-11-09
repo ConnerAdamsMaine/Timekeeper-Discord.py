@@ -1,0 +1,9 @@
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\libtokio_rustls-acf20e9d64a89fe0.rmeta: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\client.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\mod.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\handshake.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\server.rs
+
+C:\Users\Conner Adams\Desktop\Projects\404Development LLC\Timekeeper-Discord.py\Rust\target\debug\deps\tokio_rustls-acf20e9d64a89fe0.d: C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\lib.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\client.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\mod.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\handshake.rs C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\server.rs
+
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\lib.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\client.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\mod.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\common\handshake.rs:
+C:\Users\Conner\ Adams\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.26.4\src\server.rs:

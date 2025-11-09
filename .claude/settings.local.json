@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in guild channel message member role emoji permissions asset colour flags shard activity presences voice_state interactions components embeds mentions file sticker reaction poll appinfo audit_logs automod integrations invite onboarding partial_emoji player primary_guild raw_models scheduled_event search sku soundboard stage_instance subscription team template threads webhook welcome_screen widget context_managers opus oggparse voice_client)",
+      "Bash(do)",
+      "Bash(echo:*)",
+      "Bash(\"Rust/src/$file.rs\")",
+      "Bash(done)",
+      "Bash(cargo build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
